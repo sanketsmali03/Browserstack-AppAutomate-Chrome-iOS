@@ -5,7 +5,7 @@ For more information on running WDIO tests with Browserstack, please see WDIO's 
 
 Before running any of these scripts, you need to do the following on your environment:
 * Ensure you have valid BrowserStack credentials 
-* Upload a valid app to use in case #3
+* Upload a valid app to use in case
 
 ## Switch between native apps and the device's browser
 These tests demonstrate how to switch between the browser and a native app in order to test deeplink functionality. Because this scenario requires an app to be installed on the device, it runs on BrowserStack's [App Automate](https://app-automate.browserstack.com/) product instead of [Automate](https://automate.browserstack.com/)
